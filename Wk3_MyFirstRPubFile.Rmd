@@ -1,0 +1,42 @@
+My First R RPub File
+========================
+
+This is my first R Markdown file.
+
+Here we are going to load some data.
+```{r}
+library(datasets)
+data("airquality")
+summary(airquality)
+```
+
+Let's first make a pairs plot of the data.
+
+```{r}
+pairs(airquality)
+```
+
+Here's a regression model on wind, solar radiation and temperature.
+
+```{r}
+library(stats)
+fit <- lm(Ozone ~ Wind + Solar.R + Temp, data=airquality)
+summary(fit)
+```
+
+Here's an unordered list:
+
+* first element
+
+* second element
+
+* third element
+
+And here's an ordered list:
+
+1. first element
+1. second element
+1. third element
+
+
+

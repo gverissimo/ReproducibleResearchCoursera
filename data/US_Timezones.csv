@@ -1,0 +1,163 @@
+﻿STATENAME,STATE,TimeZones,TZ
+Alaska,AK,AKD,America/Anchorage
+Alaska,AK,AKS,America/Anchorage
+Arkansas,AR,CDT,America/Chicago
+Arkansas,AR,CST,America/Chicago
+Alabama,AL,CDT,America/Chicago
+Alabama,AL,CST,America/Chicago
+American Samoa,AS,SST,Pacific/Pago_Pago
+Arizona ,AZ,MST,America/Denver
+Arizona ,AZ,MDT,America/Denver
+California,CA,PDT,America/Los_Angeles
+California,CA,PST,America/Los_Angeles
+Colorado,CO,MDT,America/Denver
+Colorado,CO,MST,America/Denver
+Connecticut,CT,EDT,America/New_York
+Connecticut,CT,EST,America/New_York
+Delaware,DE,EDT,America/New_York
+Delaware,DE,EST,America/New_York
+Florida,FL,CDT,America/Chicago
+Florida,FL,CST,America/Chicago
+Florida,FL,EDT,America/New_York
+Florida,FL,EST,America/New_York
+Georgia,GA,EDT,America/New_York
+Georgia,GA,EST,America/New_York
+Guam,GU,GST,Pacific/Guam
+Alaska,HI,HDT,Pacific/Honolulu
+Alaska,HI,HST,Pacific/Honolulu
+Hawaii,HI,HST,Pacific/Honolulu
+Iowa,IA,CDT,America/Chicago
+Iowa,IA,CST,America/Chicago
+Idaho,ID,MDT,America/Denver
+Idaho,ID,MST,America/Denver
+Idaho,ID,PDT,America/Los_Angeles
+Idaho,ID,PST,America/Los_Angeles
+Illinois,IL,CDT,America/Chicago
+Illinois,IL,CST,America/Chicago
+Indiana,IN,CDT,America/Chicago
+Indiana,IN,CST,America/Chicago
+Indiana,IN,EDT,America/New_York
+Indiana,IN,EST,America/New_York
+Kansas,KS,CDT,America/Chicago
+Kansas,KS,CST,America/Chicago
+Kansas,KS,MDT,America/Denver
+Kansas,KS,MST,America/Denver
+Kentucky,KY,CDT,America/Chicago
+Kentucky,KY,CST,America/Chicago
+Kentucky,KY,EDT,America/New_York
+Kentucky,KY,EST,America/New_York
+Louisiana,LA,CDT,America/Chicago
+Louisiana,LA,CST,America/Chicago
+Massachusetts,MA,EDT,America/New_York
+Massachusetts,MA,EST,America/New_York
+Maryland,MD,EDT,America/New_York
+Maryland,MD,EST,America/New_York
+Maine,ME,EDT,America/New_York
+Maine,ME,EST,America/New_York
+Michigan,MI,CDT,America/Chicago
+Michigan,MI,CST,America/Chicago
+Michigan,MI,EDT,America/New_York
+Michigan,MI,EST,America/New_York
+Minnesota,MN,CDT,America/Chicago
+Minnesota,MN,CST,America/Chicago
+Missouri,MO,CDT,America/Chicago
+Missouri,MO,CST,America/Chicago
+Mississippi,MS,CDT,America/Chicago
+Mississippi,MS,CST,America/Chicago
+Montana,MT,MDT,America/Denver
+Montana,MT,MST,America/Denver
+North Carolina,NC,EDT,America/New_York
+North Carolina,NC,EST,America/New_York
+North Dakota,ND,CDT,America/Chicago
+North Dakota,ND,CST,America/Chicago
+North Dakota,ND,MDT,America/Denver
+North Dakota,ND,MST,America/Denver
+Nebraska,NE,CDT,America/Chicago
+Nebraska,NE,CST,America/Chicago
+Nebraska,NE,MDT,America/Denver
+Nebraska,NE,MST,America/Denver
+New Hampshire,NH,EDT,America/New_York
+New Hampshire,NH,EST,America/New_York
+New Jersey,NJ,EDT,America/New_York
+New Jersey,NJ,EST,America/New_York
+New Mexico,NM,MDT,America/Denver
+New Mexico,NM,MST,America/Denver
+Nevada,NV,MDT,America/Denver
+Nevada,NV,MST,America/Denver
+Nevada,NV,PDT,America/Los_Angeles
+Nevada,NV,PST,America/Los_Angeles
+New York,NY,EDT,America/New_York
+New York,NY,EST,America/New_York
+Ohio,OH,EDT,America/New_York
+Ohio,OH,EST,America/New_York
+Oklahoma,OK,CDT,America/Chicago
+Oklahoma,OK,CST,America/Chicago
+Oregon,OR,MDT,America/Denver
+Oregon,OR,MST,America/Denver
+Oregon,OR,PDT,America/Los_Angeles
+Oregon,OR,PST,America/Los_Angeles
+Pennsylvania,PA,EDT,America/New_York
+Pennsylvania,PA,EST,America/New_York
+Puerto Rico,PI,AST,America/Puerto_Rico
+Rhode Island,RI,EDT,America/New_York
+Rhode Island,RI,EST,America/New_York
+South Carolina,SC,EDT,America/New_York
+South Carolina,SC,EST,America/New_York
+South Dakota,SD,CDT,America/Chicago
+South Dakota,SD,CST,America/Chicago
+South Dakota,SD,MDT,America/Denver
+South Dakota,SD,MST,America/Denver
+Tennessee,TN,CDT,America/Chicago
+Tennessee,TN,CST,America/Chicago
+Tennessee,TN,EDT,America/New_York
+Tennessee,TN,EST,America/New_York
+Texas,TX,CDT,America/Chicago
+Texas,TX,CST,America/Chicago
+Texas,TX,MDT,America/Denver
+Texas,TX,MST,America/Denver
+Utah,UT,MDT,America/Denver
+Utah,UT,MST,America/Denver
+US Virgin Islands,VI,AST,America/Port_of_Spain
+Virginia,VA,EDT,America/New_York
+Virginia,VA,EST,America/New_York
+Vermont,VT,EDT,America/New_York
+Vermont,VT,EST,America/New_York
+Washington,WA,PDT,America/Los_Angeles
+Washington,WA,PST,America/Los_Angeles
+Wisconsin,WI,CDT,America/Chicago
+Wisconsin,WI,CST,America/Chicago
+Wisconsin,WI,EDT,America/New_York
+Wisconsin,WI,EST,America/New_York
+West Virginia,WV,EDT,America/New_York
+West Virginia,WV,EST,America/New_York
+Wyoming,WY,MDT,America/Denver
+Wyoming,WY,MST,America/Denver
+UNK,AM,AST,America/Puerto_Rico
+UNK,AM,EST,America/New_York
+UNK,AN,EST,America/New_York
+UNK,DC,CST,America/Chicago
+UNK,DC,EST,America/New_York
+UNK,DC,PST,America/Los_Angeles
+UNK,GM,CST,America/Chicago
+UNK,GM,EST,America/New_York
+UNK,LC,EST,America/New_York
+UNK,LE,EST,America/New_York
+UNK,LH,EST,America/New_York
+UNK,LM,CST,America/Chicago
+UNK,LM,EST,America/New_York
+UNK,LO,EST,America/New_York
+UNK,LS,CST,America/Chicago
+UNK,LS,EST,America/New_York
+UNK,MH,GMT,Etc/GMT
+UNK,PH,HST,Pacific/Honolulu
+UNK,PK,AKS,America/Anchorage
+UNK,PK,AST,America/Puerto_Rico
+UNK,PM,SST,Pacific/Pago_Pago
+UNK,PR,AST,America/Puerto_Rico
+UNK,PR,CST,America/Chicago
+UNK,PZ,PST,America/Los_Angeles
+UNK,SL,EST,America/New_York
+UNK,ST,CST,America/Chicago
+UNK,XX,EST,America/New_York
+UNK,UNK,GMT,Etc/GMT
+UNK,UNK,UTC,Etc/UTC
